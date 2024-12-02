@@ -81,3 +81,12 @@ body{
     font-size: 28px;
     margin-top: -6px;
 }
+.weather{
+    display:none;
+}
+.error{
+    margin-top: 40px;
+    font-size: 30px;
+    padding: 40px;
+    display: none;
+}
